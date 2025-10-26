@@ -1,0 +1,13 @@
+# Rust build
+/target/
+
+# editor
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# executabile
+*.exe

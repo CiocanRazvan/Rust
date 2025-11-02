@@ -1,28 +1,11 @@
-# Rust/Cargo
+# Folderul cu build-uri Cargo
 target/
-**/*.rs.bk
-Cargo.lock
 
-# Executabile
-*.exe
-*.dll
-*.so
-*.dylib
+# Folder de debug (dacă există separat)
+debug/
 
-# Editor / IDE
+# Setările VSCode
 .vscode/
-.idea/
-*.swp
-*.swo
 
-# Sistem de operare
-.DS_Store
-Thumbs.db
-
-# Loguri / temporare
-*.log
-*.tmp
-*.temp
-
-# Fisiere build generate
-/build/
+# Fișiere executabile
+*.exe

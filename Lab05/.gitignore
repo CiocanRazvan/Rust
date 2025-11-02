@@ -1,0 +1,28 @@
+# Rust/Cargo
+target/
+**/*.rs.bk
+Cargo.lock
+
+# Executabile
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistem de operare
+.DS_Store
+Thumbs.db
+
+# Loguri / temporare
+*.log
+*.tmp
+*.temp
+
+# Fisiere build generate
+/build/

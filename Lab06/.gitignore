@@ -1,0 +1,11 @@
+# Folderul cu build-uri Cargo
+target/
+
+# Folder de debug (dacă există separat)
+debug/
+
+# Setările VSCode
+.vscode/
+
+# Fișiere executabile
+*.exe
